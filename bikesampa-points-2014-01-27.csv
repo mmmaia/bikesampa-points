@@ -1,0 +1,153 @@
+id,name,address,reference,desc,area,status_online,status_operation,total_docks,occupied_docs,available_bikes,available_docks,incidents,occupancy_rate,lon,lat
+1,Instituto Biológico,Rua Morgado de Mateus,,12x0,21,A,EO,12,5,5,7,0,41,-46.647957,-23.587217
+2,Cinemateca,Largo Senador Raul Cardoso,Portaria número 1 da Cinemateca,8x6,21,A,EO,14,6,6,8,0,42,-46.646844,-23.592227
+3,Capitão Macedo,Rua Capitão Macedo,Em frente ao número 277,12x0,21,A,EO,12,8,8,4,0,66,-46.642327,-23.593142
+4,Belas Artes,Rua Dr. Alvaro Alvim,Em frente ao número 76,12x0,21,A,EO,11,3,3,8,0,27,-46.640122,-23.589445
+5,Metrô Vila Mariana,Rua Madre Cabrini,Em frente ao número 206,12x0,21,A,EO,12,5,5,7,0,41,-46.636928,-23.590883
+6,Rua Rio Grande,Rua Rio Grande,Em frente ao número 290,12x0,21,A,EO,12,3,3,9,0,25,-46.643271,-23.586918
+7,Rua Humberto Primeiro,Rua Humberto I,Em frente ao número 745,12x0,21,A,EO,12,1,1,11,0,8,-46.641039,-23.586367
+8,Metrô Ana Rosa,Rua Ambrosina de Macedo,Em frente ao número 44,12x0,21,A,EO,12,3,3,9,0,25,-46.642198,-23.582159
+9,Sesc Vila Mariana,Rua Pelotas,Em frente ao Shopping Vila Mariana,12x0,21,A,EO,12,5,5,7,0,41,-46.644033,-23.581549
+10,Rua Eça de Queiroz,Rua Eça de Queiroz,Em frente ao número187,12x0,21,A,EO,12,0,0,12,0,0,-46.642906,-23.578816
+11,Rua Cubatão,"Rua Dr. Afonso de Freitas, 239",Metrô Paraíso,12x0,21,A,EO,11,6,6,5,0,54,-46.644258,-23.575158
+12,Viaduto Tutóia,Praça Santíssimo Sacramento,Viaduto Tutóia,12x0,21,A,EO,12,9,9,3,0,75,-46.650331,-23.58031
+13,Rua Tutóia,Rua Álvaro de Menezes,,12x0,21,I,EM,12,5,5,7,0,41,-46.651748,-23.574503
+14,Itaú Cultural,Rua Leôncio de Carvalho,,12x0,21,A,EO,12,4,4,8,0,33,-46.646425,-23.570988
+15,Metrô Brigadeiro,R Alameda Santos,Metrô Brigadeiro,12x0,21,A,EO,12,3,3,9,0,25,-46.647884,-23.569848
+16,Alameda J. Eugênio de Lima,R Jose Maria Lisboa,,12x0,21,A,EO,12,0,0,12,0,0,-46.655244,-23.570339
+17,Alameda Jaú,Al Jaú,,12x0,21,A,EO,12,4,4,8,0,33,-46.654729,-23.565953
+18,Ginásio do Ibirapuera,"Rua Manoel da Nóbrega, em frente ao número 1240",Ginásio,12x0,21,A,EO,12,0,0,12,0,0,-46.656112,-23.576369
+19,Parque Ibirapuera - Portão 9,Praça Pastor Rubens Lopes,Parque Ibirapuera,12x0,21,A,EO,12,8,8,4,0,66,-46.660769,-23.578663
+20,Rua Estados Unidos,R Madre Teodora,,12x0,21,A,EO,12,1,1,11,0,8,-46.661156,-23.574469
+21,Parque Trianon,Alameda Jaú,,8x6,21,A,EO,13,3,3,10,0,23,-46.657004,-23.564262
+22,Alliance Française,"Alameda Jaú, em frente ao número 1278",,12x0,21,A,EO,12,0,0,12,0,0,-46.659911,-23.561567
+23,Teatro Renaissance,"Rua Haddock Lobo, 807",Teatro Renaissance,12x0,21,A,EO,12,0,0,12,0,0,-46.662958,-23.559296
+24,Consolação,"Rua da Consolação, frente ao número 2796",,12x0,21,A,EO,11,1,1,10,0,9,-46.665512,-23.557889
+25,Bela Cintra,"Rua Bela Cintra, frente ao número 2006",,12x0,21,A,EO,11,0,0,11,0,0,-46.668087,-23.562138
+26,Oscar Freire,"Rua Oscar Freire, 465",,12x0,21,A,EO,12,2,2,10,0,16,-46.666188,-23.565472
+27,Alameda Casa Branca,"Alameda Casa Branca, frente ao número 930",,12x0,21,A,EO,12,2,2,10,0,16,-46.662068,-23.568009
+28,Canadá,"Rua Canadá, em frente ao número 6",,12x0,21,A,EO,12,0,0,12,0,0,-46.6649,-23.570418
+29,Guadelupe,praça General San Martin,,12x0,21,A,EO,12,3,3,9,0,25,-46.673226,-23.565068
+30,Avenida Brasil,"Rua Venezuela, oposto ao número 365",,12x0,21,A,EO,12,2,2,10,0,16,-46.673601,-23.567478
+31,Antonio Bento,"Rua Antonio Bento,322",,12x0,21,A,EO,12,4,4,8,0,33,-46.666123,-23.578422
+32,Henrique Martins,"Rua General Mena Barreto, 507",,12x0,21,A,EO,12,0,0,12,0,0,-46.667561,-23.581392
+33,Avenida São Gabriel,"Rua Pedroso Alvarenga, em frente ao nº 85",,12x0,21,A,EO,12,0,0,12,0,0,-46.670951,-23.579888
+34,Joaquim Floriano,"Rua Brasília, em frente ao nº 149",,12x0,21,A,EO,12,6,6,6,0,50,-46.672089,-23.583654
+35,João Cachoeira,"Rua Iaiá, lateral do nº 16",,12x0,21,A,EO,12,0,0,12,0,0,-46.677389,-23.586417
+36,Pedroso Alvarenga,"Rua Professor Carlos de Carvalho, lateral do nº 52",,12x0,21,A,EO,12,1,1,11,0,8,-46.6802,-23.582483
+37,Parque Ibirapuera - Portão 08,"Rua Leonardo Nardez, em frente ao n 21",,12x0,21,A,EO,12,5,5,7,0,41,-46.666091,-23.587685
+38,Bastos Pereira,"Rua Domingos Leme, em frente ao nº 33",,12x0,21,A,EO,12,5,5,7,0,41,-46.668291,-23.588432
+39,Parque Ibirapuera - Portão 07,Rua Professor Filadelfo Azevedo em frente ao nº 179,,12x0,21,A,EO,11,3,3,8,0,27,-46.666274,-23.590045
+40,Jacques Felix,"Rua Jacques Felix, em frente ao nº 408",,12x0,21,A,EO,12,2,2,10,0,16,-46.671314,-23.591611
+41,Bandeira Paulista,"Rua do Consórcio, lateral nº 1182",,12x0,21,A,EO,12,2,2,10,0,16,-46.675876,-23.590241
+42,Jesuíno Cardoso,"Rua Comandatuba , lateral do nº 104",,12x0,21,A,EO,12,0,0,12,0,0,-46.679159,-23.590674
+43,Santa Justina,"Rua Egito, lateral do nº 75E",,12x0,21,A,EO,12,2,2,10,0,16,-46.673623,-23.59443
+44,Diogo Jácome,"Rua Gararu, lateral do nº 518",,12x0,21,A,EO,12,2,2,10,0,16,-46.667475,-23.596416
+45,Pereira Coutinho,"Praça Pereira Coutinho, oposto ao nº 201",,12x0,21,A,EO,12,2,2,10,0,16,-46.669278,-23.59324
+46,Parque Ibirapuera - Portão 06,Avenida IV Centenário,,12x0,21,A,EO,11,4,4,7,0,36,-46.661757,-23.594066
+47,Parque Ibirapuera - Portão 05,Avenida IV Centenário,,12x0,21,A,EO,12,1,1,11,0,8,-46.656532,-23.592109
+48,Avenida Ibirapuera,Rua Pedro de Toledo,,12x0,21,I,EM,12,0,0,12,0,0,-46.656231,-23.59675
+49,Parque das Bicicletas,"Avenida Iraê,155",,12x0,21,A,EO,12,12,12,0,0,100,-46.658055,-23.60086
+50,N. Sra. Aparecida,"Avenida Divino Salvador, em frente ao nº 58",,12x0,21,A,EO,12,5,5,7,0,41,-46.661392,-23.603612
+51,Avenida Indianópolis,"Avenida Indianópolis,em frente ao nº595",,12x0,21,A,EO,12,8,8,4,0,66,-46.654343,-23.603327
+52,Alameda dos Anapurus,"Alameda dos Anapurus, 451",,12x0,21,A,EO,12,7,7,5,0,58,-46.657583,-23.606719
+53,Avenida Aratãs,"Alameda dos Guaramomis, em frente ao nº 859",,12x0,21,A,EO,12,4,4,8,0,33,-46.658506,-23.612706
+54,Universidade Ibirapuera,"Rua Iraí, em frente ao nº 458",,12x0,21,A,EO,12,7,7,5,0,58,-46.662905,-23.610671
+55,Avenida Carinás,"Alameda dos Aicas, nº 1440",,12x0,21,A,EO,12,3,3,9,0,25,-46.663424,-23.614211
+56,Shopping Ibirapuera,"Rua Cotovia, oposto ao nº 812",,12x0,21,A,EO,12,2,2,10,0,16,-46.669042,-23.608744
+57,Rouxinol,"Rua Rouxinol, em frente ao nº 550",,12x0,21,A,EO,12,12,12,0,0,100,-46.66961,-23.603986
+58,Fernandes de Lima,"Rua Inhambu, 1649",,12x0,21,A,EO,12,3,3,9,0,25,-46.674492,-23.607152
+59,Avenida Sabiá,"Alameda Sabiá, lateral do nº 456",,12x0,21,A,EO,12,5,5,7,0,41,-46.665844,-23.600014
+60,Avenida Graúna,"Rua Graúna, 379",,12x0,21,A,EO,12,2,2,10,0,16,-46.671423,-23.601135
+61,Faculdade Anhembi Morumbi,"Rua Baluarte,303",,12x0,21,A,EO,12,10,10,2,0,83,-46.67535,-23.600683
+62,Faculdade Insper,"Rua Quata, 361",,12x0,21,A,EO,12,4,4,8,0,33,-46.676681,-23.598589
+63,Cardoso de Melo,"Rua Ponta Delgada, em frente ao nº 76",,12x0,21,A,EO,12,1,1,11,0,8,-46.68359,-23.599149
+64,Shopping Vila Olímpia,"Rua Tenerife, em frente ao nº 31",,12x0,21,A,EO,12,1,1,11,0,8,-46.687785,-23.595914
+65,Vila Olímpia,"Rua Beira Rio, em frente ao nº 67",,12x0,21,A,EO,12,4,4,8,0,33,-46.691186,-23.595472
+66,Chilon,"Rua Chilon, 443",,12x0,21,A,EO,12,0,0,12,0,0,-46.68329,-23.59443
+67,Avenida Faria Lima,Rua Lopes Neto,,12x0,21,I,EM,12,12,12,0,0,100,-46.682968,-23.588629
+68,Parque do Povo,Avenida Henrique Chama,,12x0,21,A,EO,12,5,5,7,0,41,-46.688203,-23.58976
+69,Atlântica,R Atlantica,,12x0,21,A,EO,12,1,1,11,0,8,-46.677603,-23.568668
+70,MuBE,Rua Áustria,,12x0,21,A,EO,12,0,0,12,0,0,-46.676981,-23.573919
+71,Avenida Europa,Rua Suécia,,12x0,21,A,EO,12,1,1,11,0,8,-46.680178,-23.577282
+72,Madre Alix,Rua Dr. Antonio Carlos de Assunçao,,12x0,21,I,EM,12,5,5,7,0,41,-46.681773,-23.572593
+73,Sampaio Vidal,R Sampaio Vidal,,12x0,21,A,EO,12,3,3,9,0,25,-46.686508,-23.569926
+74,Shopping Eldorado,Rua Içana,,12x0,21,I,EO,11,3,3,8,0,27,-46.695585,-23.573565
+75,Clube Hebraica,Rua Ibiapinópolis,,12x0,21,A,EO,12,1,1,11,0,8,-46.691658,-23.577557
+76,Shopping Iguatemi,Rua Iramaia,,12x0,21,A,EO,12,0,0,12,0,0,-46.686336,-23.575925
+77,Esporte Clube Pinheiros,Rua Tucuma,,12x0,21,A,EO,12,1,1,11,0,8,-46.687667,-23.580684
+78,Cidade Jardim,Rua Franz Schubert,,12x0,21,A,EO,11,6,6,5,0,54,-46.689405,-23.58504
+79,Secretaria da Educação,R Dr Diogo de Faria,,12x0,21,A,EO,12,8,8,4,0,66,-46.649065,-23.595197
+80,UNIFESP,R Napoleão de Barros,,12x0,21,A,EO,12,1,1,11,0,8,-46.644011,-23.598215
+81,Liceu Pasteur,Rua Dr. Diogo de Faria,,12x0,21,A,EO,11,9,9,2,0,81,-46.639773,-23.595964
+82,Shopping Santa Cruz,Rua Machado Bitencourt,,12x0,21,I,EO,12,8,8,4,0,66,-46.638293,-23.600486
+83,Altino Arantes,Av Dr Altino Arantes,,12x0,21,A,EO,12,8,8,4,0,66,-46.637949,-23.602688
+84,UNIP,Av Dr Altino Arantes,,12x0,21,A,EO,12,4,4,8,0,33,-46.648507,-23.60257
+85,Morais de Barro,"Rua Morais de Barros, 960",,12x0,21,A,EO,12,7,7,5,0,58,-46.673526,-23.615154
+86,Gil Eanes,"Rua Gil Eanes, 200  Esquina com a Rua Vieira de Moraes",,12x0,21,A,EO,12,4,4,8,0,33,-46.679191,-23.616491
+87,Gabrielle DAnnunzio,"Rua Gabrielle DAnnunzio, oposto ao nº 390 Esquina com a Avenida Vereador José Diniz",,12x0,21,A,EO,11,8,8,3,0,72,-46.678848,-23.620561
+88,Flórida,"Rua Flórida, 3816",,12x0,21,A,EO,11,8,8,3,0,72,-46.681509,-23.61712
+89,Demóstenes,"Rua Demóstenes, 55",,12x0,21,I,EI,12,0,0,12,0,0,-46.677646,-23.613266
+90,Luisiânia,"Rua Luisiânia, 260",,12x0,21,A,EO,12,11,11,1,0,91,-46.679792,-23.610475
+91,Arizona,R Arizona / Esquina com a Rua Califórnia,,12x0,21,A,EO,12,2,2,10,0,16,-46.687302,-23.615036
+92,Acaí Clube,"Rua Pe. Antonio Jose dos Santos, 859",,12x0,21,A,EO,12,1,1,11,0,8,-46.686401,-23.610435
+93,Ribeiro do Vale,"Rua Ribeiro do Vale, 1460",,12x0,21,A,EO,12,2,2,10,0,16,-46.681079,-23.605441
+94,Bandeirantes,"Rua Conceicão de Monte Alegre,1661",,12x0,21,A,EO,12,4,4,8,0,33,-46.683483,-23.602138
+95,Procopio Ferreira,Rua Rosa Gaeta Lazara,,12x0,21,A,EO,12,0,0,12,0,0,-46.689534,-23.600103
+96,Hipica Paulista,"Rua Quintana, 198",,12x0,21,A,EO,12,2,2,10,0,16,-46.690263,-23.603986
+97,Lions Moncoes,"Rua Flórida, 1442",,12x0,21,A,EO,12,4,4,8,0,33,-46.692109,-23.608194
+98,James Watt,"Rua James Watt, 65",,12x0,21,A,EO,12,0,0,12,0,0,-46.694769,-23.61189
+99,Berrini,"Rua Guilherme Barbosa de Melo, 237",,12x0,21,A,EO,12,8,8,4,0,66,-46.694769,-23.605048
+100,Guararapes,"Praca Gal. Eneias Martins Nogueira, 2064",,12x0,21,A,EO,12,2,2,10,0,16,-46.694855,-23.602492
+101,CENU,"Rua Edward Weston, Esquina oposta com a Rua Arizona",,12x0,21,I,EI,12,0,0,12,0,0,-46.69595,-23.609894
+102,Metrô Pinheiros,,,12x0,21,I,EI,12,0,0,12,0,0,-46.701464,-23.56615
+103,CPTM Cidade Universitária,,,12x0,21,A,EO,12,7,7,5,0,58,-46.710305,-23.553562
+104,Pedroso de Moraes,"Praça Ernani Braga, oposto a lateral do numero 21",,12x0,21,A,EO,12,8,8,4,0,66,-46.696878,-23.559323
+105,Tomie Ohtake,"Rua Fernao Dias, em frente ao numero 53",,12x0,21,A,EO,12,9,9,3,0,75,-46.69552,-23.561292
+106,Metrô Faria Lima,,,12x0,21,I,EI,12,0,0,12,0,0,-46.692817,-23.568019
+107,Metrô Fradique,"Rua Mateus Grou, em frente ao numero 57",,12x0,21,A,EO,12,10,10,2,0,83,-46.683697,-23.565088
+108,Simão Álvares,"Rua Simão Álvares, em frente ao numero 770",,12x0,21,A,EO,12,7,7,5,0,58,-46.690649,-23.561017
+109,Morás,"Rua dos Morás, lateral do número 375",,12x0,21,A,EO,12,3,3,9,0,25,-46.692752,-23.557162
+110,Metrô Vila Madalena,"Rua Paulistânia, em frente ao numero 432",,12x0,21,A,EO,12,2,2,10,0,16,-46.690456,-23.547838
+111,Wisard,"Rua Wisard, lateral do nomero 394",,12x0,21,A,EO,12,2,2,10,0,16,-46.688439,-23.554486
+112,Cônego Eugênio Leite,"Rua Cônego Eugênio Leite, em frente ao numero 1161",,12x0,21,A,EO,12,2,2,10,0,16,-46.683826,-23.559345
+113,João Moura,"Rua João Moura, em frente ao numero 1005",,12x0,21,A,EO,12,1,1,11,0,8,-46.680221,-23.556866
+114,Metrô Sumaré,"Rua Professor Rubião Meira, em frente ao numero 31",,12x0,21,I,EM,12,0,0,12,0,0,-46.678462,-23.551467
+115,Metrô Clinicas,"Rua: Arruda Alvin, 31",,12x0,21,A,EO,12,4,4,8,0,33,-46.673967,-23.555328
+116,Lisboa,"Rua Lisboa, em frente ao número 294 / Esquina com a Rua Artur de Azevedo",,12x0,21,A,EO,12,1,1,11,0,8,-46.678281,-23.561234
+117,Capote Valente,"Rua Capote Valente, 232",,12x0,21,A,EO,12,0,0,12,0,0,-46.67417,-23.557968
+118,Augusta,Rua Luiz Coelho 114,,12x0,21,A,EO,12,0,0,12,0,0,-46.65866,-23.556788
+119,Haddock Lobo,Haddock Lobo 60,,12x0,21,A,EO,11,0,0,11,0,0,-46.658077,-23.554309
+120,Shopping Frei Caneca,Rua Herculano de Freitas 51,,12x0,21,A,EO,12,1,1,11,0,8,-46.652154,-23.555057
+121,Vai Vai,"Rua São Vicente, 202",,12x0,21,I,EM,12,0,0,12,0,0,-46.648635,-23.556512
+122,MASP,"Rua Carlos Comenale, em frente ao número 37 / Esquina com a Rua Itapeva",,12x0,21,A,EO,12,0,0,12,0,0,-46.654935,-23.56142
+123,Almirante Marques de Leão,"Rua Almirante Marques de Leão, 344",,12x0,21,A,EO,12,1,1,11,0,8,-46.648734,-23.560034
+124,Conselheiro Carrão,"Rua Conselheiro Ramalho, em frente ao número 701 / Esquina com a Rua Conselheiro Carrão",,12x0,21,A,EO,12,5,5,7,0,41,-46.644164,-23.557841
+125,Santa Madalena,"Rua Doutor Alfredo Ellis, em frente ao número 198 (Estacionamento) / Esquina com a Rua Santa Madalena",,12x0,21,A,EO,12,1,1,11,0,8,-46.644197,-23.563181
+126,Ribeirão Preto,"Alameda Joaquim Eugênio de Lima, em frente ao número 180 / Esquina com a Alameda Ribeirão Preto",,12x0,21,A,EO,12,0,0,12,0,0,-46.648756,-23.563741
+127,Metrô ParaÍso,"Rua Apeninos, em frente ao número 911 / Esquina com a Rua Eduardo Amaro",,12x0,21,A,EO,12,1,1,11,0,8,-46.639368,-23.575325
+128,Metrô Vergueiro,"Rua Vergueiro, 681",,12x0,21,I,EM,12,0,0,12,0,0,-46.639451,-23.56615
+129,Pires da Mota,"Rua Pais de Andrade, 42",,12x0,21,A,EO,12,0,0,12,0,0,-46.628723,-23.566307
+130,Metrô São Joaquim,"Rua Pirapitingui, em frente ao número 34 / Esquina com a Rua Vergueiro",,12x0,21,A,EO,12,5,5,7,0,41,-46.638404,-23.562335
+131,Rua Fagundes,"Rua Taguá, lateral do número 110 / Esquina com a Rua Fagundes",,12x0,21,A,EO,11,5,5,6,0,45,-46.63207,-23.561823
+132,Barão de Iguape,"Rua Sinimbu, em frente ao número 111 / Esquina com a Rua Barão de Iguape",,12x0,21,I,EM,12,0,0,12,0,0,-46.631381,-23.558141
+134,Metrô Liberdade,,,12x0,20,I,EM,12,0,0,12,0,0,-46.635074,-23.554585
+135,Glicério,"Rua Glicério, 345",,12x0,21,I,EM,12,0,0,12,0,0,-46.628637,-23.554349
+136,Praça da Sé,"Rua Quintino Bocaiúva, oposto ao número 48 (Banco Itaú) / Entre a Rua João Mendes e o Viaduto Dona Paulina",,8x6,21,I,EM,14,0,0,14,0,0,-46.634787,-23.548802
+137,Santo Antônio,"Rua Santo Antônio,",,12x0,21,I,EM,12,0,0,12,0,0,-46.645417,-23.551202
+138,Copan,,,12x0,20,A,EO,10,5,5,5,0,50,-46.645631,-23.545182
+139,Praça da República,,,12x0,20,I,EM,12,0,0,12,0,0,-46.646018,-23.541484
+140,Metrô Anhangabaú,"Rua Formosa, oposto ao número 75",,8x6,21,I,EM,14,0,0,14,0,0,-46.638874,-23.547219
+141,Metrô São Bento,Rua líbero Badaró 621,,12x0,21,I,EM,12,0,0,12,0,0,-46.634992,-23.544022
+142,Mercado Municipal,"Rua da Cantareira,134",,12x0,21,I,EM,12,0,0,12,0,0,-46.630493,-23.543004
+144,Cemitério da Consolação,"Rua Mato Grosso, 50",,12x0,21,A,EO,12,1,1,11,0,8,-46.656242,-23.548998
+145,Parque Buenos Aires,"Rua Piauí, 647",,12x0,21,A,EO,9,0,0,9,0,0,-46.65719,-23.545573
+146,Estádio do Pacaembu,"Rua Engenheiro Edgar Egídio de Souza, 595",,12x0,21,A,EO,12,1,1,11,0,8,-46.664546,-23.544521
+147,Shopping Higienópolis,"Rua Jaguaribe, 777",,12x0,21,A,EO,11,7,7,4,0,63,-46.655695,-23.541447
+148,Alameda Barros,"Rua Doutor Candido Espinheira, 21",,12x0,21,A,EO,11,8,8,3,0,72,-46.6604,-23.534584
+150,Metrô Santa Cecília,"Rua Frederico Abranches, 218",,12x0,21,A,EO,12,11,11,1,0,91,-46.6497,-23.539817
+151,Santa Casa,"Rua Doutor Cesário Mota Júnior, 151",,12x0,21,A,EO,12,8,8,4,0,66,-46.648914,-23.543181
+156,Conselheiro Brotero,"Rua Conselheiro Brotero, 475",,12x0,21,A,EO,12,8,8,4,0,66,-46.658055,-23.530938
+160,José Paulino,"Rua José Paulino, 931",,12x0,21,A,EO,11,0,0,11,0,0,-46.643743,-23.527949
+162,Metrô Armênia,"Rua Alfredo Maia, 534",,12x0,21,A,EO,12,1,1,11,0,8,-46.629604,-23.527014
+163,Metrô Tiradentes,"Rua Três Rios, 24",,12x0,21,I,EO,12,0,0,12,0,0,-46.634445,-23.529892
